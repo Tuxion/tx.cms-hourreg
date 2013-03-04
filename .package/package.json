@@ -1,0 +1,14 @@
+{
+  "title": "hourreg",
+  "description": "An hour registration component",
+  "type": "manual",
+  "dbUpdates": true,
+  "versions": [
+    {
+      "version": "1.0",
+      "date": "2013-03-04",
+      "description": "Basic version of the hourreg component",
+      "changes": []
+    }
+  ]
+}
